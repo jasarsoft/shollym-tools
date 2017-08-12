@@ -1,4 +1,5 @@
 
-icon/icon.png
-icon/icon.psd
-balls/spt-balls.exe
+*.png
+*.psd
+*.exe
+*.zip
